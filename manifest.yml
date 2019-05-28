@@ -1,7 +1,7 @@
 ---
 applications:
-- name: hello-world
+- name: github-hello-world
   buildpack: binary_buildpack
   stack: windows2016
   command: .\tn-nextgen-helloworld.exe
-  path: build-artifacts
+  path: .\build-artifacts
