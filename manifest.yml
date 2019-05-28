@@ -4,4 +4,3 @@ applications:
   buildpack: binary_buildpack
   stack: windows2016
   command: .\tn-nextgen-helloworld.exe
-  path: build-artifacts
