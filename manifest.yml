@@ -1,0 +1,6 @@
+---
+applications:
+- name: gitlab-cicd
+  buildpack: binary_buildpack
+  stack: windows2016
+  command: .\tn-nextgen-helloworld.exe
