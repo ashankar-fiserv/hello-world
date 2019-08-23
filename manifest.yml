@@ -1,6 +1,6 @@
 ---
 applications:
 - name: dotnet-hello-world
-  buildpack: binary_buildpack
+  buildpack: dotnet_core_buildpack
   stack: windows2016
   command: .\tn-nextgen-helloworld.exe
