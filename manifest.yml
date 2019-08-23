@@ -2,4 +2,3 @@
 applications:
 - name: dotnet-hello-world
   buildpack: dotnet_core_buildpack
-  stack: windows2016
