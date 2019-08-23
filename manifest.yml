@@ -1,6 +1,6 @@
 ---
 applications:
-- name: github-hello-world
+- name: github-dotnet-hello-world
   buildpack: binary_buildpack
   stack: windows2016
   command: .\tn-nextgen-helloworld.exe
