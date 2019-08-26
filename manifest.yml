@@ -2,4 +2,4 @@
 applications:
 - name: dotnet-hello-world
   buildpack: dotnet_core_buildpack
-  path: bin\Debug\netcoreapp2.2\publish
+  path: bin/Debug/netcoreapp2.2/publish
